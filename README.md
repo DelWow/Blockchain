@@ -2,7 +2,7 @@
 This project is a straightforward implementation of a blockchain in Java. It provides a foundation for understanding how blockchains work, including block creation, mining, and verification of chain integrity.
 
 ## Table of Contents
-- Features
+- [Features](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/blob/main/LICENSE)
 - Getting Started
    - Prerequisistes
    - Project Structure
