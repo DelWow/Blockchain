@@ -3,14 +3,13 @@ This project is a straightforward implementation of a blockchain in Java. It pro
 
 ## Table of Contents
 - [Features](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#features)
-- [Getting Started]([https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#getting-started](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#getting-started))
-   - [Prerequisistes](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#prerequisites)
-   - [Project Structure](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#project-structure)
-   - [Running the Application](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#running-the-application)
-- [Blockchain Overview](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#blockchain-overview)
-- [Code Structure](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#code-structure)
-- [License](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#license)
-
+- [Getting Started](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#getting-started)
+   - [Prerequisistes](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#prerequisites)
+   - [Project Structure](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#project-structure)
+   - [Running the Application](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#running-the-application)
+- [Blockchain Overview](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#blockchain-overview)
+- [Code Structure](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#code-structure)
+- [License](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#license)
 ## Features
 - Create a blockchain with a configurable mining difficulty.
 - Mine blocks and compute their hashes using SHA-256.
