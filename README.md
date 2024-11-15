@@ -3,7 +3,7 @@ This project is a straightforward implementation of a blockchain in Java. It pro
 
 ## Table of Contents
 - [Features](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#features)
-- [Getting Started](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#getting-started)
+- [Getting Started]([https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#getting-started](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java?tab=readme-ov-file#getting-started))
    - [Prerequisistes](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#prerequisites)
    - [Project Structure](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#project-structure)
    - [Running the Application](https://github.com/DelWow/Simple-Blockchain-Implementation-in-Java/edit/main/README.md#running-the-application)
